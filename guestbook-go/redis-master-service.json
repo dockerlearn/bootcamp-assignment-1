@@ -11,7 +11,7 @@
    "spec":{
       "ports": [
         {
-          "port":6379,
+          "port":6377,
           "targetPort":"redis-server"
         }
       ],
